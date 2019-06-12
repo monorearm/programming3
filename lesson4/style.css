@@ -29,11 +29,13 @@ body {
     font-size: 1.25em;
     border: none;
     transition: 1s all;
+    
 }
 
 #submit:hover{
     background-color:#26c52d;
-    transform:rotate(180deg);
+    transform:scale(1.2);
+   
     
 }
 
@@ -50,8 +52,8 @@ body {
 
 #del:hover{
     background-color:#ff2a2a;
-    transform:rotate(180deg);
-    
+    transform:scale(1.2);
+  
 }
 
 #chat_p {
